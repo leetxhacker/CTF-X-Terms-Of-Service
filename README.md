@@ -7,4 +7,4 @@ First Of All We Have Rights To Make Chanegs To The Policy Of The Bots Without Gi
 # Developers Contact
 - Mail : contact@leetxhacker.tech
 - LinkTree : [Click Here](https://linktr.ee/leetxhacker)
-- Instagram : [Click Here](https://instagram.com/ctfx.ai)
+- Instagram : [Click Here](https://instagram.com/leetxhacker)
